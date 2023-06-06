@@ -7,6 +7,10 @@ Tinha como objetivos: criar projeto Spring Boot Java; implementar modelo de dom�
 (resource, service, repository); configurar banco de dados de teste (H2); povoar o banco de dados; 
 CRUD - Create, Retrieve, Update, Delete; fazer tratamentos de exceções.
 
+# Modelo conceitual
+
+![Modelo conceitual](https://github.com/matheus-klabunde/workshop-springboot3-jpa/blob/main/assets/img/domain-model.png)
+
 # Tecnologias utilizadas
 - Java
 - Spring Boot
