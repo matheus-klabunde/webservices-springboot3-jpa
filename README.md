@@ -16,6 +16,7 @@ CRUD - Create, Retrieve, Update, Delete; fazer tratamentos de exceções.
 - Spring Boot
 - Apache Tomcat
 - Maven
+- JPA / Hibernate
 - H2
 - Postman
 
